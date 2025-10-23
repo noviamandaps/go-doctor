@@ -35,7 +35,7 @@ export default function BookingConfirmationContent() {
         height="md"
       />
 
-      <section className="-mt-[91px] w-full space-y-4 pb-4">
+      <section className="-mt-[140px] w-full space-y-4 pb-4">
         <div className="mx-4">
           <DoctorCard doctor={doctor} variant="compact" showBookButton={false} />
         </div>

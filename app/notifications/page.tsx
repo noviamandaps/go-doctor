@@ -60,7 +60,7 @@ export default function NotificationsPage() {
         height="md"
       />
 
-      <section className="-mt-[91px] w-full space-y-4 pb-4">
+      <section className="-mt-[140px] w-full space-y-4 pb-4">
         {unreadCount > 0 && (
           <div className="mx-4 rounded-3xl bg-[#FFFFFF] p-4">
             <button

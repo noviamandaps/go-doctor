@@ -25,7 +25,7 @@ export default function ProfilePage() {
         height="md"
       />
 
-      <section className="-mt-[91px] w-full space-y-4 pb-4">
+      <section className="-mt-[140px] w-full space-y-4 pb-4">
         <div className="mx-4 rounded-3xl bg-[#FFFFFF] p-5">
           <div className="flex flex-col items-center">
             <div className="relative mb-4">

@@ -28,7 +28,7 @@ export default function PageHeader({
 
   return (
     <header
-      className={`relative w-full rounded-b-2xl bg-[#2C40FF] px-4 pt-12 ${heightStyles[height]} ${className}`}
+      className={`h-[277px] w-full rounded-b-2xl bg-[#2C40FF] px-4 pt-12 px-4 pt-12 ${heightStyles[height]} ${className}`}
     >
       {showBackButton && backHref && (
         <Link href={backHref}>
